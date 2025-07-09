@@ -1,5 +1,5 @@
 let age=22;
-let name="ishan";
+let name="harshu";
 console.log(typeof age);
 console.log(typeof name);
 
